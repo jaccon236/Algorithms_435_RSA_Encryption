@@ -1,0 +1,7 @@
+This is a text file that when you pass it as a function to the messageDigest435 program it will digitally sign it.
+
+If you choose to make changes to this file you can before or after signing it. 
+
+Just know that if you change it after creating the digital signature, it will not be verified.
+
+Have a wonderful day!

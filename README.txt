@@ -32,7 +32,7 @@ The code for this project can be found at: https://github.com/jaccon236/Algorith
             testsuite.cc
 
      2) Edit Makefile from the Big Integer Library (You can also create your own Makefile as long as you know how to do this properly)
-            1) Change line 52 to be "program = rsa534"
+            1) Change line 52 to be "program = rsa435"
             2) Change line 53 to be "program-objects = rsa435.o"
             3) (Optional) Remove lines 30 through 44 (these lines are used for test-suite which is not needed)
             4) If you are using a Window's machine replace "rm" in line 65 with "del"
@@ -46,7 +46,7 @@ The code for this project can be found at: https://github.com/jaccon236/Algorith
     Execution:
         Arguments: This program only requires the name of the program and no other arguments to run.
         
-        Formatting: Call the program by typing "./rsa534" into the terminal while in the same directory as the program and pressing enter/return.
+        Formatting: Call the program by typing "./rsa435" into the terminal while in the same directory as the program and pressing enter/return.
 
         Output: This program will output text to the console and text documents.
             1) The console will show progress of the program as it generatres and calculates values and will notify the user when it has completed.
